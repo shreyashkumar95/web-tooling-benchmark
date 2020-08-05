@@ -41,7 +41,7 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "@babel/standalone": "7.0.0-beta.32",
-    "acorn": "5.5.3",
+    "acorn": "5.7.4",
     "autoprefixer": "8.2.0",
     "babel-minify": "0.4.3",
     "babylon": "7.0.0-beta.32",
